@@ -6,6 +6,8 @@ I was inspired by the papel picado scenes from the movie Coco. The paper-cut pat
 
 # Coding Technique Exploration
 The Recursive tree and Kaleidoscope coding techniques help create complex visual effects from simple rules.
+
 Link to the coding: 
-[Recursive tree](https://p5js.org/zh-Hans/examples//repetition-recursive-tree/)!
-[Kaleidoscope](https://p5js.org/zh-Hans/examples/repetition-kaleidoscope/)!
+
+[Recursive tree](https://p5js.org/zh-Hans/examples//repetition-recursive-tree/)
+[Kaleidoscope](https://p5js.org/zh-Hans/examples/repetition-kaleidoscope/)
