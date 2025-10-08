@@ -3,10 +3,9 @@ I was inspired by the papel picado scenes from the movie Coco. The paper-cut pat
 
 ![Image of coco1](readmeImages/coco1.png)
 ![Image of coco2](readmeImages/coco2.png)
-# yuxu0600_9103_tut1
 
-```
-function helloWorld() {
-console.log("Hello, world!");
-}
-```
+# Coding Technique Exploration
+The Recursive tree and Kaleidoscope coding techniques help create complex visual effects from simple rules.
+Link to the coding: 
+[Recursive tree](https://p5js.org/zh-Hans/examples//repetition-recursive-tree/)!
+[Kaleidoscope](https://p5js.org/zh-Hans/examples/repetition-kaleidoscope/)!
