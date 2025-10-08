@@ -8,6 +8,5 @@ I was inspired by the papel picado scenes from the movie Coco. The paper-cut pat
 The Recursive tree and Kaleidoscope coding techniques help create complex visual effects from simple rules. The recursive tree technique builds fractal forms by repeating branches at different angles and scales. I can control the number of layers and the branch angle to shape various natural patterns. The kaleidoscope technique mirrors and rotates a base drawing around a center point. I can set the number of reflections and the base image to create rhythmic symmetry.
 
 Link to the coding: 
-
 [Recursive tree](https://p5js.org/examples/repetition-recursive-tree/)
 [Kaleidoscope](https://p5js.org/examples//repetition-kaleidoscope/)
